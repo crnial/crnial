@@ -3,7 +3,8 @@
 I'm Kristian, a fullstack software developer/DevOps engineer from Norway. I'm currently working full-time for an advertisement corporation. You can find me on [YouTube][1], [Twitch][2], [Twitter][3],
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-PopOs-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -12,6 +13,8 @@ I'm Kristian, a fullstack software developer/DevOps engineer from Norway. I'm cu
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Tools-UbuntuServer-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-FedoraServer-informational?style=flat&logo=Fedora&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
