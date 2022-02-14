@@ -1,5 +1,4 @@
-# crnial
-# Hello, friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# crnial - Hello, friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Kristian, a fullstack software developer/DevOps engineer from Norway. I'm currently working full-time for an advertisement corporation. You can find me on [YouTube][1], [Twitch][2], [Twitter][3],
 
