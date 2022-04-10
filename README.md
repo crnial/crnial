@@ -4,8 +4,6 @@ I'm Kristian, a fullstack software developer/DevOps engineer from Norway. I'm cu
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-PopOs-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
