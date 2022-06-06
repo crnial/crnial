@@ -1,10 +1,11 @@
-# crnial - Hello, friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Kristian, a fullstack software developer/DevOps engineer from Norway. I'm currently working full-time for an advertisement corporation. You can find me on [YouTube][1], [Twitch][2], [Twitter][3],
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-PopOs-informational?style=flat&logo=popos&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
